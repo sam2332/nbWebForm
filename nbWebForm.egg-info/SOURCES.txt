@@ -1,0 +1,9 @@
+LICENSE
+README.md
+nbWebForm
+setup.py
+nbWebForm.egg-info/PKG-INFO
+nbWebForm.egg-info/SOURCES.txt
+nbWebForm.egg-info/dependency_links.txt
+nbWebForm.egg-info/requires.txt
+nbWebForm.egg-info/top_level.txt
